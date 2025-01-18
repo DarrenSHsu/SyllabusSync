@@ -1,0 +1,7 @@
+[
+    {
+        "name": "I&C SCI 6N - Computational Linear Algebra",
+        "sum": "This course introduces matrices, linear transformations, systems of linear equations, determinants, linear vector spaces, eigenvalues, and eigenvectors, taught from an algorithmic perspective. Topics include computational solutions, applications, and numerical error analysis.",
+        "reason": "Both courses emphasize foundational topics in linear algebra, including vector spaces, eigenvalues, determinants, and linear transformations. Math 2114's focus on theoretical understanding and practical applications aligns with I&C SCI 6N's emphasis on algorithmic approaches and computational solutions. The prerequisite requirements for Math 2114, which include calculus-level coursework, are consistent with the mathematical foundation expected for I&C SCI 6N. Additionally, while Math 2114 integrates applications across various disciplines, I&C SCI 6N incorporates computational methods that also align with the problem-solving objectives of both courses. This overlap in content, objectives, and prerequisites supports the match."
+    }
+]
