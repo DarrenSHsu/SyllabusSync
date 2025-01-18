@@ -1,0 +1,21 @@
+# API Keys and Sensitive Data
+SyllabusSync/Supporting Files/API Data.swift
+
+# General macOS
+.DS_Store
+
+# Xcode
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+build/
+DerivedData/
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3 
